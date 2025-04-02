@@ -629,7 +629,7 @@
 						<div class="row align-items-center">
 							<div class="col-md-6">
 								<h6 class="text-white">Lorem ipsum</h6>
-								<h3 class="text-secondary text-uppercase">Lorem ipsum dolor sit amet</h3>
+								<h3 class="text-dark text-uppercase">Lorem ipsum dolor sit amet</h3>
 								<p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
 							</div>
 							<div class="col-md-6">
@@ -643,7 +643,7 @@
 						<div class="row align-items-center">
 							<div class="col-md-6">
 								<h6 class="text-white">Lorem ipsum</h6>
-								<h3 class="text-secondary text-uppercase">Lorem ipsum dolor sit amet, consectetur adipisicing</h3>
+								<h3 class="text-dark text-uppercase">Lorem ipsum dolor sit amet, consectetur adipisicing</h3>
 								<p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt Lorem ipsum dolor sit amet,</p>
 							</div>
 							<div class="col-md-6">
@@ -657,7 +657,7 @@
 						<div class="row align-items-center">
 							<div class="col-md-6">
 								<h6 class="text-white">Lorem ipsum</h6>
-								<h3 class="text-secondary text-uppercase">Lorem ipsum dolor sit amet, consectetur adipisicing</h3>
+								<h3 class="text-dark text-uppercase">Lorem ipsum dolor sit amet, consectetur adipisicing</h3>
 								<p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
 							</div>
 							<div class="col-md-6">
