@@ -32,30 +32,8 @@
 					</div>
 				</div>
 
-				<div class="item">
-					<img class="img-banner" src="../../public/images/banner.png">
-					<div class="box-text container">
-						<div class="b-text">
-							<h1>LED Downlight</h1>
-							<h5 class="text-white font-weight-light">We do the light things.</h5>
-							<p class="mt-auto">Aims to target major lighting professional and end users
-								by become their vendor of choice for lighting.</p>
-							<a class="text-primary" href="../product/detail.php"><u>ดูเพิ่มเติม</u><i class="las la-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<img class="img-banner" src="../../public/images/banner.png">
-					<div class="box-text container">
-						<div class="b-text">
-							<h1>LED Downlight</h1>
-							<h5 class="text-white font-weight-light">We do the light things.</h5>
-							<p class="mt-auto">Aims to target major lighting professional and end users
-								by become their vendor of choice for lighting.</p>
-							<a class="text-primary" href="../product/detail.php"><u>ดูเพิ่มเติม</u><i class="las la-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
+				<div class="item" style="background-image: url(../../public/images/banner2.png);"></div>
+				<div class="item" style="background-image: url(../../public/images/banner3.png);"></div>
 
 			</div>
 		</section>

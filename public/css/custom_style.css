@@ -1119,8 +1119,7 @@ table.table-style2 th {
 }
 #content section:first-child.box-banner ,
 #content section:nth-child(2).box-banner {
-  border-bottom-right-radius: 25px;
-  border-bottom-left-radius: 25px;
+  border-radius: 0px;
   position: sticky !important;
   top: 66.7px;
   z-index: 1 !important;
@@ -1146,6 +1145,12 @@ form.form-Search {
   border-bottom-right-radius: 25px;
   border-bottom-left-radius: 25px;
 }
+  .box-banner .item {
+    background: no-repeat center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+  }
   .box-banner img.img-banner {
     object-fit: cover;
     object-position: center;
@@ -2478,13 +2483,6 @@ footer.bg-dark {
 
 /* ---------------------------------------------------**** Tablet ****--------------------------------------------------- */
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
-  .box-banner img.img-banner {
-    height: 60vh;
-    object-fit: cover;
-    object-position: bottom;
-    padding-bottom: 46px;
-    background-color: #fffdf3;
-  }
 
   /* แนวตั้ง */
   @media only screen and (orientation: portrait) {
@@ -2762,10 +2760,9 @@ footer.bg-dark {
   .box-banner .b-text {
     width: 100% !important;
   }
+  .box-banner .item ,
   .box-banner img.img-banner {
-    height: calc(100vh - 132px);
-    object-fit: cover;
-    object-position: bottom;
+    height: calc(100vh - 136px);
   }
   .box-portfolio-shop .card-body {
     margin: 5px;
